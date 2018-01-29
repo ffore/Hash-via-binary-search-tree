@@ -3,7 +3,7 @@ Hash map created through a variety of binary search trees completed in my Data S
 
 The binary search trees include: 
 
--AVL (Adelson-Velsky and Landis)
+-AVL balanced(Adelson-Velsky and Landis)
 
 -Insertion at leaf
 
